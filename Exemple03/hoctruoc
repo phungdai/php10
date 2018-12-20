@@ -1,0 +1,6 @@
+$_GET
+$_POST // gui du lieu tu client -> sever
+$_SESSION // cap phien lam viec
+$_COOKIE // luu du lieu vao cache trinh duyet
+$_SEVER
+$_REQUEST
